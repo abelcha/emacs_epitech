@@ -10,9 +10,9 @@ INSTALATION :
 
 2) cd emacs_epitech
 
-3) cp .emacs ~
+3) cp .emacs ~/
 
-4) cp -r .emacs.d ~
+4) cp -r .emacs.d ~/
 
 SHORTCUTS :
 
